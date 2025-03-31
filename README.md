@@ -10,14 +10,17 @@ Matériel de la formation "Revues de littérature : enjeux, méthodes et outils
 
 ## Cours et suppléments
 
-Support de cours : [COURS à consulter en ligne en html](Lien à maj)  
+📑 Support de cours : [COURS à consulter en ligne en html](Lien à maj)  
 
-Fiche [Les principaux types de revue de littérature](lien à maj)
+📚 [Liste de ressources au format .pdf](lien à maj)
 
-Fiche [Logiciels spécialisés pour les revues de littérature](lien à maj)
+📚 [Liste de ressources au format .bib](lien à maj)
 
-[Liste de ressources](lien à maj)
+### Fiches
 
+* [Les principaux types de revue de littérature](lien à maj)
+* [Constituer et explorer des corpus d’articles avec Connected Papers, Research Rabbit et Citation Chaser](lien à maj)
+* [Logiciels spécialisés pour les revues de littérature](lien à maj)
 
 ## Programme de la formation publié sur le site de l'Urfist
 
