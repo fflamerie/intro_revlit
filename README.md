@@ -10,7 +10,7 @@ Matériel de la formation "Revues de littérature : enjeux, méthodes et outils
 
 ## Cours et suppléments
 
-📑 Support de cours : [COURS à consulter en ligne en html](Lien à maj)  
+📑 [Support de cours au format PDF](https://github.com/fflamerie/intro_revlit/blob/main/docs/Intro_RevLit_COURS.pdf)
 
 📚 [Liste de ressources au format .pdf](lien à maj)
 
@@ -18,9 +18,9 @@ Matériel de la formation "Revues de littérature : enjeux, méthodes et outils
 
 ### Fiches
 
-* [Les principaux types de revue de littérature](lien à maj)
-* [Constituer et explorer des corpus d’articles avec Connected Papers, Research Rabbit et Citation Chaser](lien à maj)
-* [Logiciels spécialisés pour les revues de littérature](lien à maj)
+* [Les principaux types de revue de littérature](https://github.com/fflamerie/intro_revlit/blob/main/docs/Typologie_RevLit.pdf)
+* [Constituer et explorer des corpus d’articles avec Connected Papers, Research Rabbit et Citation Chaser](https://github.com/fflamerie/intro_revlit/blob/main/docs/Fiche_ExploLit.pdf)
+* [Logiciels spécialisés pour les revues de littérature](https://github.com/fflamerie/intro_revlit/blob/main/docs/Outils_RevLit.pdf)
 
 ## Programme de la formation publié sur le site de l'Urfist
 
