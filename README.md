@@ -12,9 +12,9 @@ Matériel de la formation "Revues de littérature : enjeux, méthodes et outils
 
 📑 [Support de cours au format PDF](https://github.com/fflamerie/intro_revlit/blob/main/docs/Intro_RevLit_COURS.pdf)
 
-📚 [Liste de ressources au format .pdf](lien à maj)
+📚 [Liste de ressources au format PDF](https://github.com/fflamerie/intro_revlit/blob/main/docs/Intro_RevLit_BIBLIO.pdf)
 
-📚 [Liste de ressources au format .bib](lien à maj)
+📚 [Liste de ressources au format BiBTeX](https://github.com/fflamerie/intro_revlit/blob/main/docs/intro_RevLit_BIBLIO.bib)
 
 ### Fiches
 
